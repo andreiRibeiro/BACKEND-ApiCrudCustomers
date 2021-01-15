@@ -23,4 +23,4 @@ O projeto esta conteinerizado com imagem do banco Postgres e da api.
 ![](img/swagger.png)
 
 #### 4) Interface de requisições
-![](Customers.postman_collection.json)
+[PostmanCollection](Customers.postman_collection.json)
