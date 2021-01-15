@@ -1,8 +1,8 @@
+br/com/aaribeiro/customersApi/controller/CustomerControllerAdvice.class
 br/com/aaribeiro/customersApi/model/ErrorMessageDTO.class
 br/com/aaribeiro/customersApi/entity/CustomerEntity.class
 br/com/aaribeiro/customersApi/service/CustomerService.class
 br/com/aaribeiro/customersApi/configuration/SwaggerConfig.class
-br/com/aaribeiro/customersApi/controller/MovieControllerAdvice.class
 br/com/aaribeiro/customersApi/CustomersApiApplication.class
 br/com/aaribeiro/customersApi/controller/CustomerController.class
 br/com/aaribeiro/customersApi/repository/CustomerRepository.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.aaribeiro.customersApi.CustomerEntityTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.488 s - in br.com.aaribeiro.customersApi.CustomerEntityTest
