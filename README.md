@@ -21,3 +21,6 @@ O projeto esta conteinerizado com imagem do banco Postgres e da api.
 <code> http://localhost:9098/swagger-ui.html#/</code>
 
 ![](img/swagger.png)
+
+#### 4) Interface de requisições
+![](Customers.postman_collection.json)
