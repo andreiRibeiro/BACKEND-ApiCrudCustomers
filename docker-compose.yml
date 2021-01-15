@@ -1,0 +1,21 @@
+version: "3"
+services:
+    db-customers:
+      container_name: db-customers
+      image: postgres:alpine
+      ports:
+        - 5433:5432                        
+      environment:
+        - POSTGRES_DB=postgres
+        - POSTGRES_USER=api
+        - POSTGRES_PASSWORD=123
+      volumes:
+         - ./init.sql:/docker-entrypoint-initdb.d/init.sql            
+
+    api-customers:
+      container_name: api-customers
+      ports:
+        - 9098:9098    
+      build: .
+      depends_on: 
+        - db-customers        

@@ -1,0 +1,8 @@
+/home/andrei/Cursos/PlataformBuilders/BACKEND-ApiCrudCustomers/src/main/java/br/com/aaribeiro/customersApi/CustomersApiApplication.java
+/home/andrei/Cursos/PlataformBuilders/BACKEND-ApiCrudCustomers/src/main/java/br/com/aaribeiro/customersApi/entity/CustomerEntity.java
+/home/andrei/Cursos/PlataformBuilders/BACKEND-ApiCrudCustomers/src/main/java/br/com/aaribeiro/customersApi/configuration/SwaggerConfig.java
+/home/andrei/Cursos/PlataformBuilders/BACKEND-ApiCrudCustomers/src/main/java/br/com/aaribeiro/customersApi/controller/CustomerController.java
+/home/andrei/Cursos/PlataformBuilders/BACKEND-ApiCrudCustomers/src/main/java/br/com/aaribeiro/customersApi/service/CustomerService.java
+/home/andrei/Cursos/PlataformBuilders/BACKEND-ApiCrudCustomers/src/main/java/br/com/aaribeiro/customersApi/controller/MovieControllerAdvice.java
+/home/andrei/Cursos/PlataformBuilders/BACKEND-ApiCrudCustomers/src/main/java/br/com/aaribeiro/customersApi/repository/CustomerRepository.java
+/home/andrei/Cursos/PlataformBuilders/BACKEND-ApiCrudCustomers/src/main/java/br/com/aaribeiro/customersApi/model/ErrorMessageDTO.java
