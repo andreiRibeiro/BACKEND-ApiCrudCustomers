@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo realizar o CRUD de clientes.
 
-O serviço é executado com SpringBoot e conta com endpoint's RestFull, testes de integração com MockMvc, persistência de dados com JPA, e documentação de api com Swagger.
+O serviço é executado com Spring Boot e conta com endpoint's RestFull, testes de integração com MockMvc, persistência de dados com JPA, e documentação de api com Swagger.
 
 O projeto esta conteinerizado com imagem do banco Postgres e da api.
 
